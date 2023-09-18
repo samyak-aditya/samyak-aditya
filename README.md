@@ -1,6 +1,6 @@
 ## About Me
 
-<p align="center" style="font-size: 24px;">
+<p align="center" style="font-size: 50px;">
 Hello! 👋 I'm Samyak
 </p>
 
