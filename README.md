@@ -1,6 +1,7 @@
 ## About Me
-<p align="center">
-#Hello! 👋 I'm Samyak
+
+<p align="center" style="font-size: 24px;">
+Hello! 👋 I'm Samyak
 </p>
 
 A passionate full-stack developer with a love for crafting comprehensive web solutions.
