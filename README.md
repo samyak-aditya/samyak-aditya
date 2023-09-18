@@ -1,6 +1,7 @@
 ## About Me
-
-<center>#Hello! 👋 I'm Samyak</center>
+<p align="center">
+#Hello! 👋 I'm Samyak
+</p>
 
 A passionate full-stack developer with a love for crafting comprehensive web solutions.
 My journey in tech has taken me from frontend design to backend logic.
