@@ -1,17 +1,26 @@
 
 ## Hi👋 I'm Samyak
 
-\
-\
+
+
+
+
+
+
+
+
+
+
+
 A passionate full-stack developer with a love for crafting comprehensive web solutions.
 My journey in tech has taken me from frontend design to backend logic.
-\
+
 
 ### 💻 Tech Stack
-\
+
 
 I specialize in a variety of technologies, including:
-\
+
 
 - **Frontend:** <div >
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>  
@@ -24,7 +33,7 @@ I specialize in a variety of technologies, including:
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/>  
  	<img width="50" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha"/>  
 </div>
-\
+
 
 - **Backend:** <div >
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>  
@@ -34,13 +43,13 @@ I specialize in a variety of technologies, including:
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/> 
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>  
 </div>
-\
+
 
 - **Databases:** <div >
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/> 
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/> 
 </div>
-\
+
 
 - **Other Tools:** <div >
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/> 
