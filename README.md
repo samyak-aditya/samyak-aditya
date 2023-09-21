@@ -60,7 +60,10 @@ I specialize in a variety of technologies, including:
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/>
 </div>
 
+
 I believe that versatility is the key to building robust applications. Let's collaborate and create! 🚀
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-aditya)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyak-aditya)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=samyak-aditya&theme=dracula)](https://git.io/streak-stats)
