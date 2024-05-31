@@ -72,7 +72,14 @@ I believe that versatility is the key to building robust applications. Let's col
 
 <div align="center">
     <img width="100" src="https://media.dev.to/cdn-cgi/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F206%2Fht-badge.png" alt="hofbadge" title="Hackoberfest"/>
+    <img width="100" src="https://cdn.qwiklabs.com/3cUZzotUhC3sWESWmiP9mofbB%2BcZrrX5NiKJEGZBS%2B4%3D" alt="GCPbadge" title="Kubernetes in Google Cloud"/>
+    <img width="100" src="https://learn.microsoft.com/en-us/training/achievements/plan-form-recognizer-solution.svg" alt="azurebadge" title="Azure AI Document Intelligence"/>
+    <img width="100" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696319802391/hvWFt1_AU.png?w=200&h=200&fit=crop&crop=entropy&auto=compress&auto=compress,format&format=webp" alt="Hashnode" title="Hashnode-Self Starter"/>
+    <img width="100" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="cisco" title="Cisco Networking Academy"/>
+
 </div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8e0abda5-3a08-4595-a906-7b3c6ff6367b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
