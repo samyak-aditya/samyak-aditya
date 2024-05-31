@@ -70,7 +70,7 @@ I believe that versatility is the key to building robust applications. Let's col
 ![samyak-aditya's Stats](https://github-readme-stats.vercel.app/api?username=samyak-aditya&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 ![samyak-aditya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-aditya&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=samyak-aditya)](https://github.com/samyak-aditya/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=samyak-aditya&theme=nord&no-frame=true&no-bg=true)](https://github.com/samyak-aditya/github-profile-trophy)
 
 
 
