@@ -69,9 +69,12 @@ I believe that versatility is the key to building robust applications. Let's col
 
 ![samyak-aditya's Stats](https://github-readme-stats.vercel.app/api?username=samyak-aditya&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 ![samyak-aditya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-aditya&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
-<div>
-	<img width="100" src="https://media.dev.to/cdn-cgi/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F206%2Fht-badge.png" alt="hofbadge" title="Hackoberfest"/>
+
+<div align="center">
+    <img width="100" src="https://media.dev.to/cdn-cgi/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F206%2Fht-badge.png" alt="hofbadge" title="Hackoberfest"/>
 </div>
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=samyak-aditya&theme=nord&no-frame=true&no-bg=true)](https://github.com/samyak-aditya/github-profile-trophy)
 
