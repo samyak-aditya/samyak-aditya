@@ -69,6 +69,8 @@ I believe that versatility is the key to building robust applications. Let's col
 
 ![samyak-aditya's Stats](https://github-readme-stats.vercel.app/api?username=samyak-aditya&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
 ![samyak-aditya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyak-aditya&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+[![Samyak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=samyak-aditya&theme=tokyo-night)](https://github.com/samyak-aditya/github-readme-activity-graph)
+
 
 <div align="center">
     <img width="100" src="https://media.dev.to/cdn-cgi/image/width=180,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F206%2Fht-badge.png" alt="hofbadge" title="Hackoberfest"/>      
@@ -78,7 +80,6 @@ I believe that versatility is the key to building robust applications. Let's col
     <img width="100" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="cisco" title="Cisco Networking Academy"/> 
 
 </div>
-
 
 
 
