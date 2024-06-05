@@ -78,6 +78,7 @@ I believe that versatility is the key to building robust applications. Let's col
     <img width="100" src="https://learn.microsoft.com/en-us/training/achievements/plan-form-recognizer-solution.svg" alt="azurebadge" title="Azure AI Document Intelligence"/> 
     <img width="100" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1696319802391/hvWFt1_AU.png?w=200&h=200&fit=crop&crop=entropy&auto=compress&auto=compress,format&format=webp" alt="Hashnode" title="Hashnode-Self Starter"/> 
     <img width="100" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="cisco" title="Cisco Networking Academy"/> 
+     <img width="100" src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F2%2FVersion2-08.png" alt="cisco" title="DEV Community-One Year Club"/> 
 
 </div>
 
