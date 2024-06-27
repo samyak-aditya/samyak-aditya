@@ -1,5 +1,4 @@
-
-# Hi👋 I'm Samyak
+# Hi👋 I'm Samyak 
 
 
 
@@ -15,6 +14,7 @@
 A passionate full-stack developer with a love for crafting comprehensive web solutions.
 My journey in tech has taken me from frontend design to backend logic.
 
+<img align="right" width="200" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxtamt2MHpqbmxhZHk0MDJzaHAxenlpNWU4a2RrdXFkbjFkenR6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 ### 💻 Tech Stack
 
@@ -43,6 +43,7 @@ I specialize in a variety of technologies, including:
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
 </div>
+
 
 
 - **Databases:** <div >
