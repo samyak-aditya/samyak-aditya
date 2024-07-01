@@ -8,6 +8,7 @@
 
 
 
+<img align="right" width="300" height="200" src="https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp">
 
 
 
