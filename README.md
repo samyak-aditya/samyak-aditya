@@ -14,7 +14,6 @@
 A passionate full-stack developer with a love for crafting comprehensive web solutions.
 My journey in tech has taken me from frontend design to backend logic.
 
-<img align="right" width="300" height="200" src="https://i.giphy.com/f3iwJFOVOwuy7K6FFw.webp">
 
 ### 💻 Tech Stack
 
