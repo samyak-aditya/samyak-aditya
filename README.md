@@ -1,15 +1,4 @@
-# Hi👋 I'm Samyak 
-
-
-
-
-
-
-
-
-
-
-
+# Hi👋 I'm Samyak
 
 
 A passionate full-stack developer with a love for crafting comprehensive web solutions.
