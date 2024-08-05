@@ -51,7 +51,7 @@ I specialize in a variety of technologies, including:
 </div>
 
 
-I believe that versatility is the key to building robust applications. Let's collaborate and create! 🚀
+I believe that versatility is the key to building robust applications.🚀
 
 
  
